@@ -33,7 +33,7 @@ https://www.apachefriends.org/download.html
 
 ### 🅱️ Then Download This Zip File
 
-- [JioTV Zip](https://github.com/Jitendraunatti/JioTv/archive/refs/heads/main.zip) </br>
+- [JioTV Zip](https://github.com/jitendra-unatti/JioTv/archive/refs/heads/main.zip) </br>
 
 1. Locate and delete `index.php` if this is your first-time setup, then extract all files into the `htdocs` root folder in localhost. </br> 
 
